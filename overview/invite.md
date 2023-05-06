@@ -2,7 +2,7 @@
 
 ## How do I add Flantic to my server?
 
-In order to add Flantic to your server, you must possess the "Manage Server" permission. Nonetheless, we strongly advise granting the bot administrator permissions for optimal functionality.
+In order to add Flantic to your server, you must have the "Manage Server" permission. Nonetheless, we strongly advise granting the bot "Administrator" permissions for optimal functionality, which also requires you to have that.
 
 ### Step One
 
