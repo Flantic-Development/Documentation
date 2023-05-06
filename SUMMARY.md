@@ -1,9 +1,10 @@
 # Table of contents
 
-* [👋 Welcome to A Product](README.md)
+* [👋 Welcome to Flantic](README.md)
 
 ## Overview
 
+* [🤖 Invite](overview/invite.md)
 * [💡 What we do](overview/what-we-do.md)
 * [✨ Our Features](overview/our-features.md)
 

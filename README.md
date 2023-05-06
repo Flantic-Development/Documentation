@@ -1,8 +1,12 @@
-# 👋 Welcome to A Product
+# 👋 Welcome to Flantic
+
+
 
 {% hint style="info" %}
-**GitBook tip:** your product docs aren't just a reference of all your features! use them to encourage folks to perform certain actions and discover the value in your product.
+**Additional Help:** Can't find the answer to the question or issue that you have? No worries! We are there for you to answer your questions as soon as possible on our [support server](https://flantic.gg/support)!
 {% endhint %}
+
+
 
 ## Overview
 
