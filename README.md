@@ -3,7 +3,7 @@
 
 
 {% hint style="info" %}
-**Additional Help:** Can't find the answer to the question or issue that you have? No worries! We are there for you to answer your questions as soon as possible on our [support server](https://flantic.gg/support)!
+**Additional Help:** Unable to locate the solution to your inquiry or problem? No need to fret! Our support team is available to respond to your questions as quickly as possible on our [support server](https://flantic.gg/support)!
 {% endhint %}
 
 
